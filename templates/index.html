@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>번역 웹</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container mt-5">
+        <h1>번역기</h1>
+        <form method="POST" action="/translate">
+            <div class="form-group">
+                <label for="text">문장을 입력하세요</label>
+                <textarea class="form-control" name="text" id="text" rows="3"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">번역하기</button>
+        </form>
+        {% if translation %}
+        <hr>
+        <h2>번역 결과</h2>
+        <p>{{ translation }}</p>
+        {% endif %}
+    </div>
+</body>
+</html>
