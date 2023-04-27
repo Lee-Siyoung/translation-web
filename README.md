@@ -19,6 +19,7 @@ git clone https://github.com/Lee-Siyoung/eng-kor-translation-web
 cd eng-kor-translation-web
 flask run
 ```
+
 http://127.0.0.1:5000/  실행
 
 ### 구현한 기능
