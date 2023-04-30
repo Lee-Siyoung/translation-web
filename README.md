@@ -29,7 +29,7 @@ http://127.0.0.1:5000/  실행
 - 녹음 기능
 ![image](https://user-images.githubusercontent.com/57993534/234579147-00e02b26-7cbe-4b7d-ad87-e959dcf34b00.png)
 
-
+ 
 - pdf 번역 기능
 ![image](https://user-images.githubusercontent.com/57993534/234579214-19639176-0e44-4a33-9f2c-670dcbd41382.png)
 ![image](https://user-images.githubusercontent.com/57993534/234578815-9aff9f60-4fec-49b0-84be-e756d9daebb4.png)
