@@ -25,7 +25,7 @@ http://127.0.0.1:5000/  실행
 ### 구현한 기능
 - 텍스트 번역
 ![image](https://user-images.githubusercontent.com/57993534/234579009-a9383bd8-211f-4b8e-a786-e85564a6ea69.png)
- 
+  
 - 녹음 기능
 ![image](https://user-images.githubusercontent.com/57993534/234579147-00e02b26-7cbe-4b7d-ad87-e959dcf34b00.png)
 
